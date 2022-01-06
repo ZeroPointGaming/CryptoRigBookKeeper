@@ -1,0 +1,10 @@
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\bin\Debug\BookKeeping.exe.config
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\bin\Debug\BookKeeping.exe
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\bin\Debug\BookKeeping.pdb
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.csprojAssemblyReference.cache
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.Properties.Resources.resources
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.csproj.GenerateResource.cache
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.csproj.CoreCompileInputs.cache
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.exe
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.pdb
+C:\Users\Redaj\Source\Repos\BookKeeping\BookKeeping\obj\Debug\BookKeeping.Main.resources
